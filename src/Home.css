@@ -1,0 +1,24 @@
+.but{
+    display: flex;
+    height: 150px;
+    width: 100vw;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.but > button {
+    width: 25%;
+    height: 45px;
+    background-color: darkgrey;
+    color:white ;
+    font-family: cursive;
+    border-radius: 999px;
+    box-shadow: 2px 2px 2px 8px;
+}
+
+.but > button:hover{
+    color: red;
+    background-color: white;
+    
+}

@@ -1,0 +1,15 @@
+
+.music {
+    display: flex;
+    /* align-items: center; */
+    align-items:center;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.music > h1 {
+    color:black;
+    font-family: cursive;
+    font-stretch: expanded;
+    font-weight: inherit;
+}
